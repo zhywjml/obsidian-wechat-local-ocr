@@ -1,0 +1,10 @@
+{
+	"id": "wechat-local-ocr",
+	"name": "WeChat Local OCR",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A local OCR plugin based on WeChat OCR engine. Requires the WeChat Local OCR Server.",
+	"author": "zhywjml",
+	"authorUrl": "https://github.com/zhywjml",
+	"isDesktopOnly": true
+}
