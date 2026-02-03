@@ -41,6 +41,9 @@
     * **双击背景**: 还原大小。
     * **复制按钮**: 获取识别结果。
 
+![动画](https://github.com/user-attachments/assets/0b56ea8b-940b-4c6a-a476-0a0341ea527f)
+
+
 ---
 
 **Made with ❤️ by [zhywjml](https://github.com/zhywjml)**
